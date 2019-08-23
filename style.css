@@ -1,0 +1,15 @@
+.header, .hero, .body, .bar, .footer{
+	background-color:pink;
+	margin-bottom:5px; 
+}
+.box{ 
+	height: 80px;
+	background-color:aqua;
+	margin-bottom:10px;
+}
+.red{
+	background-color:red;
+}
+.green{
+	background-color: green;
+}
